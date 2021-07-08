@@ -4,7 +4,7 @@ Estudo análise e desenvolvimento de sistemas e sou de Franca, São Paulo.
 Há 2 anos tenho vivido e respirado desenvolvimento de sistemas com a expectativa de, em breve, atuar no mercado como cientista de dados.
 
 ### No que estou focando 🚀
-Atualmente desenvolvendo habilidades em ciência de dados: Python - bibliotecas e pacotes: Matplotlib, Pandas, Numpy, Scipy e Scikit Learn.
+Atualmente desenvolvendo habilidades em ciência de dados: Python - bibliotecas e pacotes: Matplotlib, Pandas, Numpy, Scipy, Scikit Learn e Machine Learning.
 
 ### Me encontre em outro lugar 🌎
 
