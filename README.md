@@ -8,8 +8,13 @@ Atualmente desenvolvendo habilidades em ciência de dados: Python - bibliotecas 
 
 ### Me encontre em outro lugar 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/princya-oliveira/)](https://www.linkedin.com/in/princya-oliveira/)
+<a href="https://www.linkedin.com/in/princya-oliveira/">
+  <img align="left" alt="Princya's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
+<a href="https://www.instagram.com/princyaoliveira/">
+  <img align="left" alt="Princya's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <!---
 princya-oliveira/princya-oliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
