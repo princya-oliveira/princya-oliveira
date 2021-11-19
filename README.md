@@ -13,11 +13,16 @@ Atualmente desenvolvendo habilidades em ciência de dados: Python - bibliotecas 
 <p align="right">
   <b>Me encontre em por aí 🌎:</b><br><br>
   <a href="https://www.linkedin.com/in/princya-oliveira/">
-    <img align="center" alt="Princya's LinkedIn" width="24px" hspace="10" src="./linkedin.png" />
+    <img align="center" alt="Princya's LinkedIn" width="25px" hspace="10" src="./linkedin.png" />
   </a>
-
   <a href="https://www.instagram.com/princyaoliveira/">
-    <img align="center" alt="Princya's Instagram" width="24px" src="./instagram.png" />
+    <img align="center" alt="Princya's Instagram" width="25px" src="./instagram.png" />
+  </a>
+  <a href="https://www.facebook.com/princya.oliveira/">
+    <img align="center" alt="Princya's Facebook" width="25px" hspace="10" src="./facebook.png" />
+  </a>
+  <a href="https://open.spotify.com/user/princyaoliveira">
+    <img align="center" alt="Princya's Spotify" width="25px" src="./spotify.png" />
   </a>
 </p>
 <!---
