@@ -1,6 +1,6 @@
 ### 🤙 Olá, meu nome é Princya Oliveira!
 
-📚 Discente de Análise e Desenvolvimento de Sistemas na FATEC - Faculdade de Tecnologia de Franca <br>
+📚 Discente do 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC - Faculdade de Tecnologia de Franca <br>
 📊🎲 Estudante e entusiasta de Estatística e Ciência de Dados <br>
 🔄 Em transição de carreira (gestora de produção -> cientista de dados) <br> <br>
 
