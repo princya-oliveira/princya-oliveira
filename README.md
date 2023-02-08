@@ -1,8 +1,8 @@
 ### 🤙 Olá, meu nome é Princya Oliveira!
 
-📚 Discente do 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC - Faculdade de Tecnologia de Franca <br>
+👾 Graduada em Análise e Desenvolvimento de Sistemas na FATEC - Faculdade de Tecnologia de Franca <br>
+📱 Product Designer na Compass UOL | Vivo <br>
 📊🎲 Estudante e entusiasta de Estatística e Ciência de Dados <br>
-🔄 Em transição de carreira (gestora de produção -> cientista de dados) <br> <br>
 
 ### No que estou focando 🚀
 Desenvolvendo habilidades em ciência de dados e aprendizado de máquina, estudando/trabalhando com **Python** e essas **bibliotecas e pacotes**: **Matplotlib**, **Pandas**, **Numpy**, **Scipy**, **Scikit-learn**, **TensorFlow** e **Keras**. Dá uma olhada no que estou trabalhando 👇 
