@@ -1,6 +1,6 @@
 ### 🤙 Olá, meu nome é Princya Oliveira!
 
-👾 Graduada em Análise e Desenvolvimento de Sistemas na FATEC - Faculdade de Tecnologia de Franca <br>
+👾 Analista e Desenvolvedora de Sistemas pela FATEC - Faculdade de Tecnologia de Franca <br>
 📱 Product Designer na Compass UOL | Vivo <br>
 📊🎲 Estudante e entusiasta de Estatística e Ciência de Dados <br>
 
